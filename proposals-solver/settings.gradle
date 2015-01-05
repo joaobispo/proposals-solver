@@ -1,2 +1,5 @@
 include ':specs-library'
 project( ':specs-library' ).projectDir = new File(settingsDir, '../../specs-library/specs-library' )
+
+include ':xstreamplus'
+project( ':xstreamplus' ).projectDir = new File(settingsDir, '../../xstreamplus/xstreamplus' )

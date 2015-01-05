@@ -13,6 +13,7 @@
 
 package org.specs.proposals_solver;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -23,6 +24,7 @@ import java.util.stream.IntStream;
 
 import org.specs.library.ParseUtils;
 import org.specs.proposals_solver.Solution.SolutionState;
+import org.specs.xstreamplus.XStreamUtils;
 
 public class PropostasSnippet {
 
@@ -90,14 +92,16 @@ public class PropostasSnippet {
      * System.out.println("LINHA" + (i + 1) + ","); } }
      */
 
-    // @Test
-    // public void test() {
     public static void main(String args[]) {
+
 	long tic = System.nanoTime();
-	List<Proposal> randomProposals = getRandomProposals(300);
+	List<Proposal> randomProposals = getRandomProposals(500);
 	long toc = System.nanoTime();
 	System.out.println("INITIALIZATION TIME:"
 		+ ParseUtils.getTime(toc - tic));
+
+	XStreamUtils.write(randomProposals, new File("proposals-300.xml"));
+	// List<Proposal> randomProposals = XStreamUtils.read(new File("proposals-300.xml"));
 
 	/*
 	 * try { System.in.read(); } catch (IOException e) {
@@ -132,7 +136,7 @@ public class PropostasSnippet {
 	List<Line> allLines = Arrays.asList(Line.values());
 	for (int i = 0; i < numberProposals; i++) {
 	    int valuePerLine = rand.nextInt((10000 - 5000) + 1) + 5000;
-	    int numberOfLines = rand.nextInt((30 - 1) + 1) + 1;
+	    int numberOfLines = rand.nextInt((30 - 3) + 1) + 3;
 
 	    ListIterator<Line> linesPool = new LinkedList<>(allLines)
 		    .listIterator();
