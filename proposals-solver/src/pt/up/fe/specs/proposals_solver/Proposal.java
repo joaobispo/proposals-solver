@@ -11,7 +11,7 @@
  * specific language governing permissions and limitations under the License. under the License.
  */
 
-package org.specs.proposals_solver;
+package pt.up.fe.specs.proposals_solver;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -19,7 +19,7 @@ import java.util.EnumSet;
 import java.util.Set;
 import java.util.StringJoiner;
 
-import org.specs.proposals_solver.PropostasSnippet.Line;
+import pt.up.fe.specs.proposals_solver.PropostasSnippet.Line;
 
 public class Proposal {
 	private final Set<Line> linhas;
