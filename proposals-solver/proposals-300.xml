@@ -1,0 +1,2002 @@
+<list>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA12</linhas>
+    <valor>16131</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA7,LINHA12,LINHA14,LINHA15,LINHA19,LINHA25,LINHA27,LINHA30,LINHA36</linhas>
+    <valor>86086</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA14,LINHA19,LINHA21,LINHA28,LINHA31,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>119592</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA7,LINHA10,LINHA13,LINHA18,LINHA23,LINHA24,LINHA29,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>179352</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA9,LINHA10,LINHA12,LINHA13,LINHA17,LINHA20,LINHA25,LINHA29,LINHA34,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>240675</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA13,LINHA19,LINHA21,LINHA25,LINHA28,LINHA33,LINHA34,LINHA35,LINHA37</linhas>
+    <valor>96569</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA16,LINHA20,LINHA21,LINHA23,LINHA30,LINHA35,LINHA38,LINHA43,LINHA46,LINHA48,LINHA50</linhas>
+    <valor>105768</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA4,LINHA6,LINHA8,LINHA13,LINHA19,LINHA23,LINHA26,LINHA28,LINHA29,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>290760</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA6,LINHA8,LINHA14,LINHA19</linhas>
+    <valor>42558</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA18,LINHA23,LINHA24,LINHA25,LINHA26,LINHA27,LINHA28,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>253431</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA5,LINHA11,LINHA13,LINHA18,LINHA22,LINHA24,LINHA29,LINHA36,LINHA40</linhas>
+    <valor>87620</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA2,LINHA6</linhas>
+    <valor>26643</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA13,LINHA16,LINHA20,LINHA27,LINHA31,LINHA32,LINHA33,LINHA35,LINHA38,LINHA41,LINHA42,LINHA43,LINHA44,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>99810</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA11,LINHA14</linhas>
+    <valor>21344</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA12,LINHA18,LINHA20,LINHA23,LINHA29,LINHA33,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>145640</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA10,LINHA12,LINHA14,LINHA17,LINHA18,LINHA20,LINHA27,LINHA28,LINHA30,LINHA32,LINHA39,LINHA42</linhas>
+    <valor>126112</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA4,LINHA8,LINHA13,LINHA15,LINHA19,LINHA21,LINHA23,LINHA26,LINHA27,LINHA30,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>246645</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA5,LINHA9,LINHA16,LINHA17,LINHA23,LINHA25,LINHA26,LINHA28,LINHA30,LINHA33,LINHA39,LINHA40,LINHA43,LINHA44,LINHA47,LINHA48,LINHA50</linhas>
+    <valor>108281</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA8,LINHA10,LINHA12,LINHA16</linhas>
+    <valor>49140</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA16,LINHA20,LINHA24,LINHA28,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>177422</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA9,LINHA10,LINHA12,LINHA14,LINHA16,LINHA21,LINHA24,LINHA31,LINHA33,LINHA34,LINHA41,LINHA43,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>189601</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA17,LINHA18,LINHA22,LINHA25,LINHA29,LINHA31,LINHA32,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>187575</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA12,LINHA19,LINHA26,LINHA29,LINHA30,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>156850</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA15,LINHA19,LINHA23,LINHA28,LINHA35,LINHA38,LINHA39,LINHA40,LINHA41,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>166056</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA11,LINHA13,LINHA17,LINHA21,LINHA24,LINHA30,LINHA35,LINHA36,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>162624</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA12,LINHA17,LINHA23,LINHA29,LINHA30</linhas>
+    <valor>47698</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA9,LINHA11,LINHA18,LINHA19,LINHA26,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>273308</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA15,LINHA20,LINHA21,LINHA23,LINHA29</linhas>
+    <valor>40733</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA11,LINHA12,LINHA15,LINHA18,LINHA24</linhas>
+    <valor>43799</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA16,LINHA20,LINHA23,LINHA30,LINHA32,LINHA34,LINHA35,LINHA37,LINHA38,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>129402</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA5,LINHA7,LINHA14,LINHA20,LINHA21,LINHA22,LINHA26,LINHA31,LINHA32,LINHA35,LINHA36,LINHA39,LINHA41,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>108820</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA16,LINHA19,LINHA25,LINHA28,LINHA33,LINHA34,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>106092</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA8,LINHA14,LINHA15,LINHA18,LINHA24,LINHA29,LINHA34,LINHA39,LINHA43,LINHA44,LINHA49,LINHA50</linhas>
+    <valor>127998</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA8,LINHA14,LINHA17,LINHA18,LINHA24,LINHA26,LINHA33,LINHA35,LINHA42,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>75180</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA16,LINHA20,LINHA25,LINHA27,LINHA32,LINHA34,LINHA40,LINHA44,LINHA45,LINHA47,LINHA48</linhas>
+    <valor>94471</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA3,LINHA7,LINHA13,LINHA18,LINHA21,LINHA22,LINHA29,LINHA32,LINHA36,LINHA37,LINHA39,LINHA41,LINHA43,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>188822</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA16,LINHA17,LINHA21,LINHA28,LINHA29,LINHA34,LINHA41,LINHA47,LINHA49</linhas>
+    <valor>62128</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA16,LINHA19</linhas>
+    <valor>36160</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA15,LINHA21,LINHA25,LINHA26,LINHA27,LINHA30,LINHA32,LINHA34,LINHA38,LINHA41,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48</linhas>
+    <valor>140692</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA10,LINHA16,LINHA23,LINHA29,LINHA32,LINHA33,LINHA34,LINHA36,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>149468</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA16,LINHA17,LINHA21,LINHA22,LINHA25,LINHA29,LINHA34,LINHA36,LINHA37,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>195250</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA3,LINHA8,LINHA11,LINHA14,LINHA19,LINHA25,LINHA26,LINHA30,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>172744</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA14,LINHA18,LINHA22,LINHA25,LINHA27,LINHA33,LINHA39,LINHA41,LINHA43,LINHA44,LINHA48,LINHA50</linhas>
+    <valor>135142</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA9,LINHA12,LINHA15,LINHA19,LINHA23,LINHA25,LINHA29,LINHA35,LINHA36,LINHA39,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>114994</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA5,LINHA9,LINHA16,LINHA20,LINHA21,LINHA24,LINHA31,LINHA32,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>165940</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA16,LINHA23,LINHA29,LINHA36,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>105098</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA10,LINHA11,LINHA15,LINHA16,LINHA23,LINHA28,LINHA32,LINHA34,LINHA36,LINHA40,LINHA41,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>117021</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA18,LINHA24,LINHA27,LINHA33,LINHA34,LINHA37,LINHA39,LINHA40,LINHA41,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>143784</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA11,LINHA18,LINHA22,LINHA26,LINHA27,LINHA30</linhas>
+    <valor>66696</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA9,LINHA11,LINHA13,LINHA14,LINHA19,LINHA23,LINHA25,LINHA26,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>227130</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA16,LINHA19,LINHA23,LINHA29,LINHA34,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>98355</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA15,LINHA18,LINHA24,LINHA28,LINHA30,LINHA31,LINHA32,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>215924</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA5,LINHA7,LINHA10,LINHA13,LINHA14,LINHA18,LINHA25,LINHA31,LINHA33,LINHA36,LINHA43,LINHA48</linhas>
+    <valor>68159</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA8,LINHA9,LINHA10,LINHA16,LINHA19,LINHA25,LINHA31,LINHA37,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>134620</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA8,LINHA10</linhas>
+    <valor>16269</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA16,LINHA23,LINHA29,LINHA32,LINHA33,LINHA34,LINHA38,LINHA44</linhas>
+    <valor>67150</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA16,LINHA19,LINHA26,LINHA27,LINHA33</linhas>
+    <valor>43939</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA12</linhas>
+    <valor>21807</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA14,LINHA21,LINHA24,LINHA25,LINHA27,LINHA32,LINHA36,LINHA38,LINHA39,LINHA41,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>165148</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA7,LINHA11,LINHA18,LINHA25,LINHA29,LINHA30,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>127150</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA6,LINHA11,LINHA15,LINHA21,LINHA22,LINHA26,LINHA33,LINHA36,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>106617</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA10,LINHA14,LINHA17,LINHA21,LINHA26,LINHA27,LINHA29,LINHA30,LINHA31,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>216944</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA6,LINHA9,LINHA10,LINHA17,LINHA21,LINHA22,LINHA26,LINHA31,LINHA34,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA49,LINHA50</linhas>
+    <valor>123444</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA8,LINHA14,LINHA20,LINHA27,LINHA30,LINHA37</linhas>
+    <valor>57253</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA8,LINHA13,LINHA20,LINHA24,LINHA25,LINHA30,LINHA31,LINHA32,LINHA36,LINHA37,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>145104</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA10,LINHA17,LINHA22</linhas>
+    <valor>37345</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA7,LINHA13,LINHA15,LINHA22,LINHA25,LINHA27,LINHA29,LINHA30,LINHA31,LINHA36,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>207350</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA11,LINHA18,LINHA23,LINHA28,LINHA34,LINHA36,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>100026</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA9,LINHA10,LINHA14,LINHA20,LINHA21,LINHA28,LINHA34,LINHA41,LINHA43,LINHA45,LINHA48,LINHA49</linhas>
+    <valor>125972</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA19,LINHA24,LINHA27,LINHA28,LINHA35,LINHA38,LINHA41,LINHA44,LINHA47,LINHA49</linhas>
+    <valor>72624</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA13,LINHA18,LINHA20,LINHA25,LINHA29,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>154968</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA5,LINHA9,LINHA10,LINHA13,LINHA17,LINHA24,LINHA30,LINHA33,LINHA35,LINHA38,LINHA40,LINHA41,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>147264</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA10,LINHA16,LINHA19,LINHA23,LINHA30,LINHA32,LINHA33,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>209265</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA15,LINHA22,LINHA25,LINHA28,LINHA30,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>145680</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA7,LINHA12,LINHA18,LINHA25,LINHA32,LINHA39,LINHA42,LINHA45,LINHA48</linhas>
+    <valor>94170</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA5,LINHA6,LINHA8,LINHA15,LINHA17,LINHA24,LINHA28,LINHA29,LINHA33,LINHA36,LINHA38,LINHA40,LINHA41,LINHA43,LINHA44,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>162400</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA6,LINHA12,LINHA13,LINHA14,LINHA20,LINHA22,LINHA25,LINHA29,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>134100</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA14,LINHA20,LINHA21,LINHA22</linhas>
+    <valor>40554</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA10,LINHA17,LINHA21,LINHA22,LINHA28,LINHA32,LINHA34,LINHA38,LINHA39,LINHA41,LINHA46,LINHA47,LINHA48,LINHA50</linhas>
+    <valor>78210</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA16,LINHA19,LINHA20,LINHA21,LINHA23,LINHA27,LINHA28,LINHA31,LINHA35,LINHA40,LINHA44,LINHA46</linhas>
+    <valor>78750</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA7,LINHA8,LINHA11,LINHA15,LINHA17,LINHA24,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>191052</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA11,LINHA17,LINHA19,LINHA22,LINHA28,LINHA35,LINHA38,LINHA40,LINHA43,LINHA48</linhas>
+    <valor>93468</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA10,LINHA11,LINHA17,LINHA20,LINHA21,LINHA23,LINHA25,LINHA32,LINHA37</linhas>
+    <valor>86310</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA9,LINHA14,LINHA19,LINHA21</linhas>
+    <valor>59970</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA13,LINHA15,LINHA20,LINHA26</linhas>
+    <valor>42120</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA10,LINHA12,LINHA13,LINHA15,LINHA21,LINHA23</linhas>
+    <valor>59560</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA10,LINHA17,LINHA21,LINHA24,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>158028</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA13,LINHA20,LINHA21,LINHA25,LINHA26,LINHA28,LINHA29,LINHA30,LINHA31,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>169157</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA8,LINHA10,LINHA12,LINHA19,LINHA24,LINHA27,LINHA28,LINHA29,LINHA36,LINHA42,LINHA43,LINHA45,LINHA46</linhas>
+    <valor>136365</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA7,LINHA14,LINHA21,LINHA24,LINHA25,LINHA27,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>154089</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA10,LINHA16,LINHA21,LINHA22,LINHA23,LINHA25,LINHA26,LINHA27,LINHA28,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>158670</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA8,LINHA12,LINHA13,LINHA19,LINHA21,LINHA22,LINHA29,LINHA33,LINHA38,LINHA42,LINHA45,LINHA48,LINHA49</linhas>
+    <valor>73794</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA6,LINHA9,LINHA12,LINHA19,LINHA24,LINHA29,LINHA33,LINHA38,LINHA39,LINHA42,LINHA43,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>153408</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA11,LINHA14,LINHA21,LINHA28,LINHA29,LINHA30,LINHA36,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>109950</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA11,LINHA13,LINHA15,LINHA16,LINHA17,LINHA22,LINHA29,LINHA30,LINHA34,LINHA38,LINHA39,LINHA44</linhas>
+    <valor>91689</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA10,LINHA14,LINHA18,LINHA24,LINHA27,LINHA29,LINHA30,LINHA31,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>179950</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA9,LINHA11,LINHA18,LINHA23,LINHA25,LINHA28,LINHA35,LINHA37,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>125643</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA12,LINHA17,LINHA19,LINHA20,LINHA26,LINHA27,LINHA30,LINHA31,LINHA33,LINHA38</linhas>
+    <valor>100032</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA7,LINHA14,LINHA16,LINHA22,LINHA27,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>137670</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA15</linhas>
+    <valor>29715</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA11,LINHA13,LINHA19,LINHA23,LINHA30,LINHA32,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>143469</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA11,LINHA12,LINHA18,LINHA21,LINHA22</linhas>
+    <valor>49637</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA8,LINHA11</linhas>
+    <valor>21392</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA16,LINHA22,LINHA25,LINHA27,LINHA30,LINHA31,LINHA32,LINHA33,LINHA35,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>152832</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA10,LINHA15,LINHA17,LINHA20,LINHA27,LINHA30,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>212472</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA17,LINHA23,LINHA30,LINHA35</linhas>
+    <valor>47652</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA13,LINHA19,LINHA24,LINHA28</linhas>
+    <valor>39162</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA14,LINHA20,LINHA25,LINHA30,LINHA31,LINHA32,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>129108</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA8,LINHA9,LINHA10,LINHA17,LINHA24,LINHA25,LINHA29,LINHA34,LINHA40,LINHA43</linhas>
+    <valor>87406</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA8,LINHA9,LINHA12,LINHA16,LINHA21,LINHA23,LINHA27,LINHA32,LINHA38,LINHA44,LINHA45,LINHA49,LINHA50</linhas>
+    <valor>104986</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA16,LINHA20,LINHA26,LINHA29,LINHA30,LINHA31,LINHA33,LINHA34,LINHA35,LINHA36,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>198528</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA12,LINHA18,LINHA20,LINHA21,LINHA22,LINHA27,LINHA34,LINHA36,LINHA38,LINHA41,LINHA48,LINHA49</linhas>
+    <valor>100451</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA14,LINHA20,LINHA24,LINHA27,LINHA29,LINHA32,LINHA35,LINHA37,LINHA39,LINHA40,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>170300</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA13,LINHA19,LINHA26,LINHA27,LINHA30,LINHA33,LINHA34,LINHA36,LINHA37,LINHA39,LINHA41,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>174287</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA15,LINHA16,LINHA20,LINHA26,LINHA27,LINHA29,LINHA31,LINHA32,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>221130</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA13,LINHA15,LINHA17,LINHA23,LINHA26,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>212928</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA10,LINHA16,LINHA19,LINHA21,LINHA27,LINHA32,LINHA36,LINHA40,LINHA42,LINHA43,LINHA45,LINHA49</linhas>
+    <valor>101878</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA13,LINHA16,LINHA17,LINHA23,LINHA24,LINHA27,LINHA31,LINHA37,LINHA42,LINHA45,LINHA46,LINHA49</linhas>
+    <valor>106860</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA10,LINHA11,LINHA13,LINHA15,LINHA16,LINHA17,LINHA18,LINHA23,LINHA24,LINHA27,LINHA32,LINHA38,LINHA44,LINHA49</linhas>
+    <valor>103965</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA10,LINHA17,LINHA21,LINHA28,LINHA29,LINHA32,LINHA34,LINHA36,LINHA40,LINHA45,LINHA50</linhas>
+    <valor>102427</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA13,LINHA20,LINHA22,LINHA26,LINHA29,LINHA36,LINHA38,LINHA42,LINHA43,LINHA46,LINHA48,LINHA50</linhas>
+    <valor>121170</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA13,LINHA18,LINHA25,LINHA30,LINHA31,LINHA32,LINHA38,LINHA39,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>163319</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA10,LINHA16,LINHA23,LINHA27,LINHA31,LINHA38,LINHA39,LINHA45,LINHA50</linhas>
+    <valor>89925</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA10,LINHA12,LINHA19,LINHA26,LINHA27,LINHA29,LINHA32,LINHA35,LINHA36,LINHA42,LINHA43,LINHA44,LINHA46,LINHA49,LINHA50</linhas>
+    <valor>142154</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA14,LINHA15,LINHA21,LINHA27,LINHA31,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>142812</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA16,LINHA18,LINHA22,LINHA26,LINHA31</linhas>
+    <valor>56784</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA14,LINHA20,LINHA24,LINHA25,LINHA26,LINHA27,LINHA28,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>247457</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA10</linhas>
+    <valor>15513</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA8,LINHA9</linhas>
+    <valor>35072</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA15,LINHA18,LINHA20,LINHA25,LINHA29,LINHA33,LINHA35,LINHA36,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>203952</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA14,LINHA15,LINHA20,LINHA22,LINHA29,LINHA31,LINHA34,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>181260</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA10,LINHA17,LINHA20,LINHA23,LINHA28</linhas>
+    <valor>49146</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA10,LINHA16,LINHA21,LINHA25,LINHA31,LINHA35</linhas>
+    <valor>53520</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA19,LINHA21,LINHA27,LINHA32,LINHA34,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>138705</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA11,LINHA13,LINHA17,LINHA22,LINHA28,LINHA32,LINHA33,LINHA34,LINHA37,LINHA42</linhas>
+    <valor>73320</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA7,LINHA11,LINHA18,LINHA23,LINHA24,LINHA27</linhas>
+    <valor>53312</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA13,LINHA18,LINHA22,LINHA24,LINHA26,LINHA33,LINHA34</linhas>
+    <valor>56331</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA12,LINHA14,LINHA18,LINHA19,LINHA24,LINHA26,LINHA27,LINHA34,LINHA38,LINHA39</linhas>
+    <valor>64356</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA4,LINHA10,LINHA16,LINHA20,LINHA22,LINHA29,LINHA30,LINHA35,LINHA36,LINHA37,LINHA38,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>207644</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA14,LINHA15,LINHA18,LINHA25,LINHA28,LINHA31</linhas>
+    <valor>54216</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA11,LINHA14,LINHA17,LINHA22,LINHA23,LINHA27,LINHA32,LINHA34,LINHA36,LINHA39,LINHA45,LINHA46,LINHA49</linhas>
+    <valor>114735</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA5,LINHA10,LINHA15,LINHA16,LINHA23,LINHA25,LINHA32,LINHA36,LINHA38</linhas>
+    <valor>79431</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA8,LINHA9,LINHA13,LINHA18,LINHA25,LINHA29,LINHA34,LINHA36,LINHA37,LINHA44,LINHA47,LINHA48,LINHA50</linhas>
+    <valor>126308</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA8,LINHA12,LINHA18,LINHA19,LINHA22,LINHA26,LINHA31,LINHA32,LINHA38,LINHA42,LINHA45</linhas>
+    <valor>62532</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA5,LINHA6,LINHA12,LINHA18,LINHA21,LINHA23,LINHA24,LINHA26,LINHA31,LINHA37,LINHA42,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>162165</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA5,LINHA9,LINHA13,LINHA14,LINHA20,LINHA25</linhas>
+    <valor>48916</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA4,LINHA6,LINHA9,LINHA14,LINHA18,LINHA23,LINHA30,LINHA31,LINHA37,LINHA42,LINHA44,LINHA45,LINHA48,LINHA49</linhas>
+    <valor>128220</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA2,LINHA7,LINHA14,LINHA17</linhas>
+    <valor>40055</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA13,LINHA19,LINHA24,LINHA28,LINHA32,LINHA37,LINHA39,LINHA40,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>106063</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA14,LINHA19,LINHA25,LINHA31,LINHA35,LINHA36,LINHA37</linhas>
+    <valor>57465</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA10,LINHA15,LINHA19,LINHA20,LINHA22,LINHA29,LINHA32,LINHA33,LINHA35,LINHA37,LINHA41</linhas>
+    <valor>79521</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA8,LINHA9,LINHA13,LINHA14,LINHA17,LINHA23,LINHA24,LINHA27,LINHA34,LINHA41,LINHA44,LINHA50</linhas>
+    <valor>118594</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA15,LINHA19,LINHA25,LINHA26,LINHA27,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>157950</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA12,LINHA19,LINHA21,LINHA25,LINHA29,LINHA31,LINHA33,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>182336</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA5,LINHA8,LINHA10,LINHA14,LINHA21,LINHA22,LINHA28,LINHA32,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>203232</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA13,LINHA20,LINHA25,LINHA29,LINHA31,LINHA32,LINHA33,LINHA34,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>132802</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA10,LINHA13,LINHA14,LINHA18,LINHA24,LINHA27,LINHA30,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>166934</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA13,LINHA14,LINHA15,LINHA22,LINHA24,LINHA27,LINHA29,LINHA30,LINHA32,LINHA33,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>222966</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA11,LINHA17,LINHA21,LINHA26,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>223700</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA16,LINHA18,LINHA24,LINHA25</linhas>
+    <valor>46290</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA15,LINHA20,LINHA26,LINHA33,LINHA35,LINHA38</linhas>
+    <valor>55392</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA5,LINHA12,LINHA18,LINHA24,LINHA28,LINHA31,LINHA36,LINHA38,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>161842</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA15,LINHA18,LINHA23,LINHA30</linhas>
+    <valor>45960</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA8,LINHA9,LINHA10,LINHA15,LINHA22,LINHA27,LINHA29,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>197532</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA15,LINHA17,LINHA18,LINHA19,LINHA25,LINHA28,LINHA30,LINHA36,LINHA37,LINHA40,LINHA41,LINHA43,LINHA44,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>134710</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA18,LINHA22,LINHA29,LINHA35,LINHA36,LINHA43,LINHA45,LINHA49</linhas>
+    <valor>54550</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA3,LINHA4,LINHA6,LINHA10,LINHA16,LINHA21,LINHA23,LINHA28,LINHA35,LINHA41,LINHA47,LINHA48,LINHA50</linhas>
+    <valor>103166</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA15,LINHA21,LINHA27,LINHA33,LINHA39,LINHA40,LINHA42,LINHA43,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>118110</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA14,LINHA15,LINHA20,LINHA22,LINHA29,LINHA33,LINHA40,LINHA42,LINHA47,LINHA50</linhas>
+    <valor>107112</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA12,LINHA16,LINHA19,LINHA26,LINHA29,LINHA32,LINHA37,LINHA38,LINHA39,LINHA42,LINHA43,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>142272</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA8,LINHA10</linhas>
+    <valor>23916</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA12,LINHA15,LINHA18,LINHA25,LINHA28,LINHA30,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>150254</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA10,LINHA14,LINHA17,LINHA19</linhas>
+    <valor>33565</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA6,LINHA8,LINHA9,LINHA12,LINHA18,LINHA21,LINHA25,LINHA26,LINHA27,LINHA28,LINHA30,LINHA31,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>237510</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA17,LINHA23,LINHA25,LINHA26,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>130525</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA4,LINHA7,LINHA8,LINHA14,LINHA20,LINHA21,LINHA25,LINHA29,LINHA30,LINHA31,LINHA35,LINHA36,LINHA38,LINHA39,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>163622</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA12,LINHA18,LINHA23,LINHA24,LINHA25,LINHA26,LINHA28,LINHA29,LINHA30,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>232860</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA14,LINHA16,LINHA18,LINHA22,LINHA28</linhas>
+    <valor>46599</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA12,LINHA19,LINHA22,LINHA24,LINHA26,LINHA33,LINHA34,LINHA37,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48</linhas>
+    <valor>137790</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA11,LINHA15,LINHA18,LINHA25,LINHA32,LINHA37,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49</linhas>
+    <valor>117894</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA9</linhas>
+    <valor>17469</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA16,LINHA18,LINHA25,LINHA31</linhas>
+    <valor>47466</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA12,LINHA14,LINHA19,LINHA20,LINHA27,LINHA34,LINHA36,LINHA39,LINHA44,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>113100</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA9,LINHA12,LINHA14,LINHA21,LINHA28,LINHA35</linhas>
+    <valor>73152</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA13,LINHA19,LINHA23</linhas>
+    <valor>26605</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA12,LINHA13,LINHA14,LINHA17,LINHA22</linhas>
+    <valor>53060</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA9,LINHA11,LINHA16,LINHA17,LINHA18,LINHA23,LINHA24,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>182340</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA12,LINHA18,LINHA21,LINHA24,LINHA25,LINHA26,LINHA27,LINHA28,LINHA30,LINHA31,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>198090</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA18,LINHA19,LINHA24,LINHA26,LINHA27,LINHA28,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>178080</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA13,LINHA16,LINHA22,LINHA28,LINHA35,LINHA40,LINHA46,LINHA49</linhas>
+    <valor>94160</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA14,LINHA17,LINHA21,LINHA23,LINHA24,LINHA26,LINHA31,LINHA34,LINHA35,LINHA40,LINHA41</linhas>
+    <valor>74607</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA14,LINHA17,LINHA18,LINHA24,LINHA27,LINHA33,LINHA40,LINHA42,LINHA43,LINHA45,LINHA47,LINHA48</linhas>
+    <valor>99246</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA6,LINHA7,LINHA14,LINHA21,LINHA28,LINHA32,LINHA35</linhas>
+    <valor>59175</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA12,LINHA16,LINHA22,LINHA23,LINHA24,LINHA28,LINHA29,LINHA30,LINHA32,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>141568</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA19,LINHA21,LINHA24,LINHA25,LINHA29,LINHA30,LINHA34,LINHA40,LINHA41,LINHA44,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>142768</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA16,LINHA23,LINHA30,LINHA32,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>132066</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA7,LINHA11,LINHA17,LINHA23,LINHA26,LINHA28,LINHA30,LINHA34,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>203520</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA12,LINHA17,LINHA24,LINHA26,LINHA31,LINHA33,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>170625</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA12</linhas>
+    <valor>20178</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA12,LINHA15,LINHA17,LINHA22,LINHA23,LINHA27,LINHA29,LINHA33,LINHA34,LINHA36,LINHA41,LINHA43,LINHA44,LINHA46,LINHA48,LINHA50</linhas>
+    <valor>99774</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA11,LINHA16,LINHA19,LINHA26,LINHA32,LINHA39,LINHA45</linhas>
+    <valor>69984</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA12,LINHA14,LINHA21,LINHA22,LINHA25,LINHA26,LINHA27,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>221292</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA17,LINHA20,LINHA23,LINHA24,LINHA27,LINHA31,LINHA32,LINHA35,LINHA40,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>162072</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA9</linhas>
+    <valor>21015</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA11,LINHA14,LINHA17,LINHA23,LINHA24,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>230020</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA17,LINHA19,LINHA26,LINHA31,LINHA32,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>194229</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA16,LINHA20,LINHA23,LINHA24,LINHA28,LINHA29,LINHA32,LINHA33,LINHA36,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>183287</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA12,LINHA17,LINHA19,LINHA20,LINHA25,LINHA29,LINHA30,LINHA32,LINHA34,LINHA39,LINHA42,LINHA43,LINHA44,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>168986</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA10,LINHA13,LINHA19,LINHA24,LINHA26,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>157221</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA15,LINHA16,LINHA17,LINHA18,LINHA21,LINHA24,LINHA27,LINHA34,LINHA40,LINHA43,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>138672</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA17,LINHA21,LINHA26,LINHA27,LINHA28,LINHA29,LINHA31,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>196506</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA11,LINHA17,LINHA23,LINHA24,LINHA27,LINHA28,LINHA29,LINHA31,LINHA34,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>165048</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA7,LINHA8,LINHA10,LINHA12,LINHA13,LINHA15,LINHA22,LINHA25,LINHA30,LINHA34,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA50</linhas>
+    <valor>185687</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA18,LINHA19,LINHA23,LINHA24,LINHA26,LINHA27,LINHA28,LINHA29,LINHA30,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>269874</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA5,LINHA11,LINHA17,LINHA19,LINHA23,LINHA30,LINHA33,LINHA38,LINHA43,LINHA47</linhas>
+    <valor>90409</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA12,LINHA14,LINHA16,LINHA20</linhas>
+    <valor>29765</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA12,LINHA16,LINHA20,LINHA23,LINHA24,LINHA29,LINHA30,LINHA34</linhas>
+    <valor>53160</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA8,LINHA13,LINHA14,LINHA21,LINHA28,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>226272</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA17,LINHA23,LINHA26,LINHA32,LINHA33,LINHA34,LINHA36,LINHA38,LINHA39,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>183120</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA12,LINHA15,LINHA21,LINHA23,LINHA26,LINHA30,LINHA31,LINHA32,LINHA34,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>129398</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA8,LINHA13,LINHA18,LINHA19,LINHA22,LINHA27,LINHA30</linhas>
+    <valor>56952</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA13,LINHA17,LINHA20,LINHA23,LINHA27,LINHA29,LINHA32,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>116109</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA11,LINHA14,LINHA16,LINHA18,LINHA20,LINHA25,LINHA28,LINHA32,LINHA35,LINHA39,LINHA41,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>94356</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA10,LINHA12,LINHA17,LINHA19,LINHA24,LINHA29,LINHA33,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>148176</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA15,LINHA16</linhas>
+    <valor>23568</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA11,LINHA15,LINHA22,LINHA25,LINHA28,LINHA33,LINHA34,LINHA37,LINHA44,LINHA46,LINHA50</linhas>
+    <valor>78840</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA11,LINHA15,LINHA20,LINHA23,LINHA25,LINHA30,LINHA33,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>137540</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA10,LINHA16,LINHA17,LINHA23,LINHA27,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>155480</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA11,LINHA14,LINHA18,LINHA25,LINHA26,LINHA27,LINHA29,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>133354</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA15,LINHA18,LINHA25,LINHA26,LINHA33,LINHA39,LINHA40,LINHA42,LINHA43,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>137312</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA8,LINHA13,LINHA14,LINHA21,LINHA28,LINHA32,LINHA35</linhas>
+    <valor>48176</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA10,LINHA15</linhas>
+    <valor>38764</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA2,LINHA8,LINHA14,LINHA17,LINHA23,LINHA24,LINHA26,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>148016</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA16,LINHA21,LINHA24,LINHA30,LINHA32,LINHA34,LINHA35,LINHA36,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>202167</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA15,LINHA16,LINHA22,LINHA23,LINHA25,LINHA26,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>283260</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA10,LINHA11,LINHA12,LINHA17,LINHA18,LINHA23,LINHA28,LINHA30,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>132342</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA13,LINHA15,LINHA20,LINHA21,LINHA24,LINHA28,LINHA35,LINHA37,LINHA39,LINHA41,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>100548</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA8,LINHA9,LINHA12,LINHA19,LINHA20,LINHA21,LINHA23,LINHA28,LINHA35,LINHA39,LINHA46,LINHA47</linhas>
+    <valor>119873</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA13,LINHA16,LINHA23,LINHA30,LINHA31,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>184621</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA13,LINHA16,LINHA17,LINHA22,LINHA25,LINHA31,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>135954</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA8,LINHA11,LINHA16,LINHA20,LINHA23,LINHA29,LINHA36,LINHA40,LINHA42,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>88094</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA9,LINHA10,LINHA14,LINHA18,LINHA19,LINHA23,LINHA24,LINHA25,LINHA29,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>250230</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA14,LINHA16,LINHA18,LINHA24,LINHA30,LINHA37,LINHA39,LINHA41,LINHA42,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>88592</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA17,LINHA23,LINHA26,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>160216</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA5,LINHA10,LINHA13,LINHA16,LINHA17,LINHA23,LINHA28,LINHA30,LINHA34,LINHA37,LINHA44,LINHA45,LINHA47,LINHA49</linhas>
+    <valor>98175</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA13,LINHA17,LINHA24,LINHA30,LINHA31,LINHA34,LINHA36,LINHA37,LINHA38,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>162666</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA18,LINHA24,LINHA25,LINHA26,LINHA27,LINHA28,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>176428</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA10,LINHA16,LINHA17,LINHA19,LINHA24,LINHA30,LINHA37</linhas>
+    <valor>46664</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA12,LINHA18,LINHA19,LINHA23,LINHA28,LINHA35,LINHA39,LINHA43,LINHA47,LINHA50</linhas>
+    <valor>65784</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA8,LINHA15,LINHA16</linhas>
+    <valor>39340</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA12,LINHA15,LINHA20,LINHA23,LINHA25,LINHA29,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>212758</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA10,LINHA11,LINHA17,LINHA21,LINHA24,LINHA29,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>164750</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA21,LINHA28,LINHA33</linhas>
+    <valor>49075</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA8,LINHA12,LINHA14,LINHA17,LINHA20,LINHA27,LINHA34,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>182280</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA14,LINHA19,LINHA20,LINHA22,LINHA23,LINHA30</linhas>
+    <valor>59104</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA10,LINHA11,LINHA18</linhas>
+    <valor>26290</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA8,LINHA12,LINHA19,LINHA25,LINHA27,LINHA28,LINHA29,LINHA34,LINHA35,LINHA36,LINHA37,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>147522</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA16,LINHA18,LINHA24,LINHA27,LINHA29,LINHA31,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>148525</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA11,LINHA16,LINHA20,LINHA24,LINHA26,LINHA27,LINHA30</linhas>
+    <valor>79128</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA12,LINHA18,LINHA21,LINHA26,LINHA32,LINHA33,LINHA36,LINHA37,LINHA41,LINHA42,LINHA43,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>163602</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA8,LINHA11,LINHA13,LINHA18,LINHA25,LINHA32</linhas>
+    <valor>47593</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA11,LINHA16,LINHA23,LINHA24,LINHA25,LINHA26,LINHA32,LINHA36,LINHA38,LINHA41,LINHA48</linhas>
+    <valor>112775</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA13,LINHA18,LINHA22,LINHA29,LINHA33,LINHA35,LINHA38,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>180025</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA8,LINHA10,LINHA16,LINHA20,LINHA26,LINHA27,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>242480</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA7,LINHA11,LINHA17,LINHA22,LINHA28,LINHA35,LINHA36,LINHA39,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>91944</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA14,LINHA15,LINHA22,LINHA27,LINHA30,LINHA32,LINHA33,LINHA35,LINHA37,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>180928</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA8,LINHA11,LINHA14,LINHA17,LINHA19,LINHA21,LINHA22,LINHA29</linhas>
+    <valor>74580</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA9,LINHA16,LINHA17,LINHA18,LINHA20,LINHA25,LINHA31,LINHA32,LINHA39,LINHA41,LINHA42,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>154375</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA13,LINHA17,LINHA22,LINHA25,LINHA28</linhas>
+    <valor>68390</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA12,LINHA15,LINHA19,LINHA21,LINHA25,LINHA29,LINHA33,LINHA34,LINHA40,LINHA45,LINHA46,LINHA47,LINHA49</linhas>
+    <valor>133845</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA7,LINHA11,LINHA15,LINHA19,LINHA26,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>270564</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA13,LINHA15,LINHA16,LINHA22,LINHA29,LINHA33,LINHA35,LINHA36,LINHA39,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>150368</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA10,LINHA11,LINHA17,LINHA22,LINHA29,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA50</linhas>
+    <valor>170583</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA6,LINHA13,LINHA19,LINHA26,LINHA29,LINHA31,LINHA37</linhas>
+    <valor>85275</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA14,LINHA21,LINHA25,LINHA26,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>161790</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA11,LINHA12,LINHA17,LINHA23,LINHA24,LINHA29,LINHA32,LINHA37,LINHA39</linhas>
+    <valor>76490</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA14,LINHA18,LINHA24,LINHA28,LINHA35,LINHA36,LINHA38,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>111777</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA16,LINHA19,LINHA21,LINHA24,LINHA25,LINHA26,LINHA28,LINHA32</linhas>
+    <valor>70010</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA17,LINHA22,LINHA24,LINHA29,LINHA32</linhas>
+    <valor>60858</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA17,LINHA20,LINHA22,LINHA24,LINHA31,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA49,LINHA50</linhas>
+    <valor>126055</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA8,LINHA9,LINHA14,LINHA21,LINHA26,LINHA28,LINHA29,LINHA32,LINHA34,LINHA41</linhas>
+    <valor>69360</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA14,LINHA21,LINHA28,LINHA32,LINHA37,LINHA41,LINHA43,LINHA44,LINHA47,LINHA50</linhas>
+    <valor>89760</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA10,LINHA17,LINHA23,LINHA24,LINHA29,LINHA36,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>113715</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA15,LINHA17,LINHA24,LINHA27,LINHA32,LINHA36,LINHA40,LINHA42,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>119520</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA13,LINHA18,LINHA20,LINHA21,LINHA27,LINHA33,LINHA37</linhas>
+    <valor>67815</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA8,LINHA12,LINHA17,LINHA18,LINHA25,LINHA28,LINHA29,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>147108</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA13,LINHA18,LINHA19,LINHA25,LINHA27,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>205025</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA15,LINHA20,LINHA24,LINHA29,LINHA31,LINHA36,LINHA38</linhas>
+    <valor>49842</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA11,LINHA16,LINHA23,LINHA29,LINHA36</linhas>
+    <valor>52598</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA12,LINHA15,LINHA22,LINHA24,LINHA31,LINHA32,LINHA39,LINHA40,LINHA43,LINHA45,LINHA49,LINHA50</linhas>
+    <valor>129298</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA15,LINHA16,LINHA17,LINHA18</linhas>
+    <valor>57096</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA11,LINHA14,LINHA15,LINHA18,LINHA23,LINHA27,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>200688</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA10,LINHA11,LINHA16,LINHA22,LINHA25,LINHA26,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>208887</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA8,LINHA13,LINHA15,LINHA16,LINHA23,LINHA29,LINHA30,LINHA34,LINHA37,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>119280</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA8,LINHA13,LINHA19,LINHA21,LINHA23,LINHA30,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>128000</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA7,LINHA13</linhas>
+    <valor>24596</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA16,LINHA22,LINHA29,LINHA32,LINHA37,LINHA43</linhas>
+    <valor>61496</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA7,LINHA10,LINHA13,LINHA18,LINHA21,LINHA24,LINHA27,LINHA28,LINHA29,LINHA30,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>232092</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA12,LINHA13,LINHA17,LINHA23,LINHA27,LINHA29,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>235521</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA18,LINHA25,LINHA26,LINHA28,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>235872</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA13,LINHA19,LINHA25,LINHA28,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>236425</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA8,LINHA15,LINHA22,LINHA28,LINHA32,LINHA37,LINHA38,LINHA39,LINHA40,LINHA42,LINHA43,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>133056</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA11,LINHA14,LINHA17,LINHA21,LINHA28,LINHA29,LINHA32,LINHA33,LINHA37,LINHA38,LINHA39,LINHA41</linhas>
+    <valor>136892</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA16,LINHA20,LINHA21,LINHA25,LINHA32,LINHA34,LINHA35,LINHA37,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>192040</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA10,LINHA13,LINHA15,LINHA20,LINHA26,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>278010</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA18,LINHA23,LINHA26,LINHA31,LINHA38</linhas>
+    <valor>63322</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA14,LINHA18,LINHA19,LINHA24,LINHA25,LINHA28,LINHA31,LINHA35,LINHA38,LINHA39,LINHA41,LINHA43,LINHA47,LINHA50</linhas>
+    <valor>154336</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA11,LINHA16,LINHA23,LINHA30,LINHA34,LINHA40,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>76260</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA11,LINHA12,LINHA14,LINHA15,LINHA16,LINHA22,LINHA23,LINHA24,LINHA26,LINHA30,LINHA33,LINHA38,LINHA44,LINHA48,LINHA50</linhas>
+    <valor>125808</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA10,LINHA15,LINHA16,LINHA17,LINHA20,LINHA26,LINHA27,LINHA30</linhas>
+    <valor>62330</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA8,LINHA11,LINHA18,LINHA21</linhas>
+    <valor>48318</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA2,LINHA9,LINHA11,LINHA18,LINHA23,LINHA30,LINHA36,LINHA40</linhas>
+    <valor>56466</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA2,LINHA7,LINHA13,LINHA19,LINHA20,LINHA23,LINHA26,LINHA31</linhas>
+    <valor>79164</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA19,LINHA24,LINHA28,LINHA30,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>236208</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA8,LINHA13,LINHA20,LINHA22,LINHA23,LINHA27,LINHA32,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>154980</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA12,LINHA16,LINHA21,LINHA23,LINHA28,LINHA29,LINHA34,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>167472</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA7,LINHA14,LINHA19,LINHA25,LINHA26,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>263424</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA12,LINHA16,LINHA20,LINHA26,LINHA30,LINHA32,LINHA34,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>144946</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA17,LINHA22,LINHA24,LINHA27,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>213096</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA8,LINHA13,LINHA17,LINHA22,LINHA23,LINHA28,LINHA32,LINHA33,LINHA34,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>145199</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA6,LINHA10,LINHA13,LINHA16,LINHA17,LINHA24,LINHA25,LINHA29,LINHA32,LINHA35,LINHA38,LINHA41,LINHA44,LINHA46,LINHA50</linhas>
+    <valor>169949</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA14,LINHA19,LINHA23,LINHA26,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>219210</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA16,LINHA18,LINHA19,LINHA21,LINHA22,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>243390</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA18,LINHA22,LINHA24,LINHA25,LINHA29,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>230230</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA12,LINHA15,LINHA16,LINHA23,LINHA28,LINHA29,LINHA32,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>137350</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA11,LINHA14,LINHA16,LINHA17</linhas>
+    <valor>35916</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA12,LINHA19,LINHA24,LINHA25,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>215832</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA13,LINHA16,LINHA18,LINHA25,LINHA26,LINHA29,LINHA34,LINHA37,LINHA42,LINHA43,LINHA46,LINHA49,LINHA50</linhas>
+    <valor>140760</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA10,LINHA15,LINHA19,LINHA23,LINHA24,LINHA26,LINHA27,LINHA32,LINHA38,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>154926</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA19,LINHA21,LINHA24,LINHA27,LINHA31,LINHA32,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>156398</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA4,LINHA8,LINHA10,LINHA12,LINHA18,LINHA25,LINHA32,LINHA35,LINHA37,LINHA38,LINHA41,LINHA42,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>131309</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA5,LINHA11,LINHA16,LINHA20,LINHA21,LINHA27,LINHA31,LINHA37,LINHA38,LINHA41,LINHA43,LINHA47,LINHA50</linhas>
+    <valor>95662</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA12,LINHA16,LINHA23,LINHA24,LINHA27</linhas>
+    <valor>30984</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA4,LINHA5,LINHA6,LINHA12,LINHA17,LINHA18,LINHA21,LINHA26,LINHA28,LINHA30,LINHA34,LINHA36,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>227328</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA11,LINHA18,LINHA24,LINHA28,LINHA29,LINHA30,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>164164</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA12,LINHA18,LINHA22,LINHA26,LINHA27,LINHA29,LINHA32</linhas>
+    <valor>42128</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA18,LINHA20</linhas>
+    <valor>20672</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA13,LINHA16,LINHA17,LINHA23,LINHA28,LINHA29,LINHA31,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>162600</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA14,LINHA15,LINHA17,LINHA19,LINHA25,LINHA32,LINHA37,LINHA38,LINHA39,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>125316</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA14,LINHA17,LINHA24</linhas>
+    <valor>35755</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA12,LINHA14,LINHA18,LINHA23,LINHA26,LINHA33,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA44,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>128142</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA8,LINHA9,LINHA15,LINHA17,LINHA21,LINHA24,LINHA30,LINHA35,LINHA40</linhas>
+    <valor>90189</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA16,LINHA22,LINHA25,LINHA26,LINHA31,LINHA32,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>166960</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA10,LINHA15,LINHA18,LINHA23,LINHA28,LINHA29,LINHA30,LINHA37,LINHA39,LINHA44,LINHA46,LINHA47</linhas>
+    <valor>136668</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA16,LINHA21,LINHA24,LINHA31,LINHA34,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>109763</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA9,LINHA11,LINHA12,LINHA18,LINHA20,LINHA25,LINHA26,LINHA27,LINHA29,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>249210</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA8,LINHA14,LINHA20,LINHA24,LINHA30,LINHA31,LINHA32,LINHA38,LINHA43,LINHA44</linhas>
+    <valor>119388</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA5,LINHA11,LINHA15,LINHA21,LINHA23,LINHA26,LINHA27,LINHA32,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA45,LINHA46,LINHA47,LINHA50</linhas>
+    <valor>165452</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA17,LINHA24,LINHA26,LINHA30,LINHA31,LINHA38,LINHA41</linhas>
+    <valor>71082</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA11,LINHA12,LINHA16,LINHA21,LINHA23,LINHA26,LINHA31,LINHA32,LINHA33,LINHA35,LINHA37,LINHA38,LINHA39,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>129720</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA10,LINHA13,LINHA15,LINHA19,LINHA22,LINHA26,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>256200</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA7,LINHA12,LINHA19,LINHA23,LINHA25,LINHA31,LINHA36,LINHA41,LINHA45</linhas>
+    <valor>65978</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA14,LINHA16,LINHA22,LINHA29,LINHA31,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>160182</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA11,LINHA15,LINHA17,LINHA23,LINHA25,LINHA30,LINHA32,LINHA34,LINHA35,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>191232</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA13,LINHA15,LINHA19,LINHA24,LINHA28,LINHA29,LINHA32,LINHA33,LINHA34,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>154375</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA13,LINHA19,LINHA20,LINHA26,LINHA27,LINHA30,LINHA34,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>239736</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA10,LINHA16,LINHA20,LINHA24,LINHA31,LINHA33,LINHA34,LINHA40,LINHA41,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>162018</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA18,LINHA21,LINHA26,LINHA27,LINHA28,LINHA30,LINHA37,LINHA43,LINHA44</linhas>
+    <valor>105545</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA15,LINHA21,LINHA28,LINHA30,LINHA31,LINHA33</linhas>
+    <valor>71384</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA14,LINHA21</linhas>
+    <valor>34324</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA12,LINHA14,LINHA18,LINHA19,LINHA21,LINHA27,LINHA33,LINHA35,LINHA42,LINHA45,LINHA49,LINHA50</linhas>
+    <valor>111228</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA15,LINHA17,LINHA18</linhas>
+    <valor>39730</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA7,LINHA10,LINHA16,LINHA18,LINHA22,LINHA26,LINHA28,LINHA33,LINHA34,LINHA37,LINHA43,LINHA46,LINHA48</linhas>
+    <valor>112290</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA5,LINHA9,LINHA15,LINHA16,LINHA20</linhas>
+    <valor>52122</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA2,LINHA4,LINHA6,LINHA7,LINHA10,LINHA17,LINHA20,LINHA27,LINHA33,LINHA35,LINHA37,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>196160</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA8,LINHA11,LINHA17,LINHA22,LINHA29,LINHA32</linhas>
+    <valor>60116</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA3,LINHA7,LINHA13,LINHA17,LINHA18,LINHA20,LINHA23,LINHA29,LINHA33,LINHA40,LINHA41,LINHA46,LINHA47,LINHA48,LINHA50</linhas>
+    <valor>120048</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA12,LINHA14,LINHA17</linhas>
+    <valor>28710</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA6,LINHA11,LINHA12,LINHA14,LINHA21,LINHA22,LINHA28,LINHA29,LINHA32,LINHA34,LINHA35,LINHA40,LINHA42,LINHA43,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>158532</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA16,LINHA23</linhas>
+    <valor>30264</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA15,LINHA16,LINHA17,LINHA23,LINHA30,LINHA33,LINHA35,LINHA36,LINHA42</linhas>
+    <valor>71478</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA2,LINHA3,LINHA8,LINHA14,LINHA21,LINHA25,LINHA29</linhas>
+    <valor>63784</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA10,LINHA16,LINHA17,LINHA19</linhas>
+    <valor>45198</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA10,LINHA11,LINHA18,LINHA21,LINHA26,LINHA28,LINHA29,LINHA30,LINHA31,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>280343</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA9,LINHA11,LINHA17,LINHA22,LINHA25,LINHA31,LINHA34,LINHA37,LINHA38,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>156980</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA5,LINHA10,LINHA17,LINHA22,LINHA24,LINHA26,LINHA28,LINHA34,LINHA36,LINHA41,LINHA46,LINHA47,LINHA48,LINHA50</linhas>
+    <valor>77355</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA10,LINHA15,LINHA19,LINHA24,LINHA30,LINHA33,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>118545</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA10,LINHA14,LINHA18,LINHA19,LINHA25,LINHA26,LINHA30,LINHA32,LINHA37,LINHA44,LINHA50</linhas>
+    <valor>99476</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA11,LINHA15,LINHA18,LINHA25,LINHA30,LINHA31,LINHA32,LINHA33,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>224710</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA11,LINHA14,LINHA19,LINHA25,LINHA32,LINHA39,LINHA43,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>124917</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA13,LINHA20,LINHA23,LINHA29,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>107673</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA6,LINHA12,LINHA17,LINHA21,LINHA22,LINHA23,LINHA25,LINHA29</linhas>
+    <valor>58707</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA18,LINHA20,LINHA24</linhas>
+    <valor>45230</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA9,LINHA13,LINHA19,LINHA24,LINHA27,LINHA29,LINHA31,LINHA36,LINHA38,LINHA42</linhas>
+    <valor>78045</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA10,LINHA12,LINHA18,LINHA20,LINHA22,LINHA28,LINHA33,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>137200</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA12,LINHA19,LINHA24,LINHA28,LINHA29,LINHA30,LINHA37</linhas>
+    <valor>72351</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA8,LINHA11,LINHA15,LINHA16,LINHA21,LINHA26,LINHA30,LINHA33,LINHA38,LINHA40,LINHA44</linhas>
+    <valor>100632</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA5,LINHA7,LINHA13,LINHA20,LINHA23,LINHA28,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA50</linhas>
+    <valor>184125</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA14,LINHA15,LINHA18,LINHA22,LINHA29,LINHA31,LINHA35,LINHA37,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>167055</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA9,LINHA16</linhas>
+    <valor>17838</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA8,LINHA13,LINHA17,LINHA18,LINHA23,LINHA26,LINHA31,LINHA36,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>189088</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA10,LINHA14,LINHA16,LINHA20,LINHA25,LINHA31,LINHA32,LINHA38,LINHA43,LINHA45,LINHA46,LINHA50</linhas>
+    <valor>128562</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA14,LINHA18,LINHA21,LINHA22,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>187500</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA13,LINHA16,LINHA17,LINHA21,LINHA24,LINHA28,LINHA34,LINHA38,LINHA45</linhas>
+    <valor>106040</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA10,LINHA11,LINHA18,LINHA20,LINHA24,LINHA27,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>239922</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA10,LINHA14,LINHA21,LINHA27,LINHA32</linhas>
+    <valor>42420</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA13,LINHA14,LINHA16,LINHA22,LINHA27,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>114224</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA13,LINHA16,LINHA19,LINHA22,LINHA24</linhas>
+    <valor>38122</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA11,LINHA17,LINHA20,LINHA22,LINHA28,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>132100</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA7,LINHA12,LINHA13,LINHA16,LINHA23,LINHA25</linhas>
+    <valor>45960</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA9,LINHA11,LINHA18,LINHA25,LINHA27,LINHA30,LINHA31,LINHA33,LINHA40,LINHA43,LINHA44,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>108336</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA10,LINHA16,LINHA23,LINHA24,LINHA27,LINHA29,LINHA30,LINHA33,LINHA34,LINHA35,LINHA36,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>215376</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA8,LINHA15,LINHA20,LINHA25,LINHA27,LINHA30,LINHA32,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>145900</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA16,LINHA19,LINHA22,LINHA25,LINHA31,LINHA35,LINHA42,LINHA43,LINHA47</linhas>
+    <valor>100045</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA13,LINHA19,LINHA24,LINHA25,LINHA31</linhas>
+    <valor>40380</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA12,LINHA18,LINHA21,LINHA25,LINHA26,LINHA30,LINHA37,LINHA42,LINHA45</linhas>
+    <valor>109747</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA11,LINHA15,LINHA19,LINHA25,LINHA28,LINHA32,LINHA33,LINHA38,LINHA42,LINHA44,LINHA45,LINHA48</linhas>
+    <valor>134932</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA7,LINHA13,LINHA17,LINHA18,LINHA25,LINHA30,LINHA36,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>99042</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA18,LINHA19,LINHA20,LINHA25,LINHA28,LINHA31,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>160580</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA10,LINHA12,LINHA18,LINHA20,LINHA27,LINHA31,LINHA35,LINHA37,LINHA42,LINHA43,LINHA46,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>146528</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA6,LINHA8,LINHA13,LINHA14,LINHA19,LINHA22,LINHA26,LINHA30,LINHA35,LINHA37,LINHA38,LINHA41,LINHA42,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>170335</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA6,LINHA10,LINHA12,LINHA17,LINHA18,LINHA23,LINHA26,LINHA28,LINHA35</linhas>
+    <valor>50150</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA15,LINHA18,LINHA19,LINHA21,LINHA27,LINHA30,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>234494</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA17,LINHA20,LINHA27,LINHA31,LINHA37,LINHA43,LINHA46,LINHA47,LINHA48</linhas>
+    <valor>75306</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA13,LINHA14,LINHA20,LINHA24,LINHA27,LINHA32,LINHA34,LINHA38,LINHA39,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>122417</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA10,LINHA13,LINHA18,LINHA21,LINHA22,LINHA24,LINHA25,LINHA28,LINHA29,LINHA32,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>237328</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA14,LINHA16,LINHA19,LINHA24,LINHA25,LINHA26,LINHA28,LINHA29,LINHA30,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>239400</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA4,LINHA6</linhas>
+    <valor>25650</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA7,LINHA12,LINHA19,LINHA20,LINHA27,LINHA28,LINHA35,LINHA38,LINHA42,LINHA44,LINHA45,LINHA49</linhas>
+    <valor>107107</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA9,LINHA10,LINHA17,LINHA21,LINHA25,LINHA27,LINHA28,LINHA30,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>258888</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA8,LINHA9,LINHA15,LINHA17,LINHA18,LINHA19,LINHA26,LINHA33,LINHA38,LINHA40,LINHA47</linhas>
+    <valor>68724</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA6,LINHA7,LINHA12,LINHA15,LINHA19,LINHA24,LINHA28,LINHA30,LINHA31,LINHA32,LINHA34,LINHA35,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>228722</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA12,LINHA13,LINHA18,LINHA22,LINHA25,LINHA27,LINHA29,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>144900</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA12,LINHA16</linhas>
+    <valor>24648</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA8,LINHA12,LINHA13,LINHA14,LINHA16,LINHA20,LINHA27,LINHA30,LINHA35,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>246025</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA12,LINHA13,LINHA16,LINHA20,LINHA23,LINHA25,LINHA27,LINHA30,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>217906</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA14,LINHA15,LINHA21,LINHA28,LINHA34,LINHA41,LINHA45,LINHA46,LINHA47</linhas>
+    <valor>62205</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA11,LINHA17,LINHA18,LINHA23,LINHA28,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>203086</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA6,LINHA11,LINHA17,LINHA20,LINHA27,LINHA31,LINHA35,LINHA41,LINHA44,LINHA47,LINHA48</linhas>
+    <valor>129272</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA8,LINHA9,LINHA16,LINHA18,LINHA23,LINHA30,LINHA32,LINHA39,LINHA42,LINHA43,LINHA45,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>77370</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA10,LINHA14,LINHA19</linhas>
+    <valor>41455</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA10,LINHA16,LINHA21,LINHA27</linhas>
+    <valor>25800</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA3,LINHA6,LINHA12,LINHA19,LINHA25,LINHA26,LINHA28,LINHA29,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>188888</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA11,LINHA12,LINHA13,LINHA18,LINHA23,LINHA24,LINHA28</linhas>
+    <valor>66915</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA12,LINHA13,LINHA20,LINHA24,LINHA29,LINHA32,LINHA35,LINHA36,LINHA37,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>163506</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA9,LINHA14,LINHA15,LINHA18,LINHA19,LINHA23,LINHA25</linhas>
+    <valor>50960</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA13,LINHA14,LINHA19,LINHA20,LINHA21,LINHA24,LINHA27,LINHA32,LINHA33,LINHA36,LINHA38,LINHA40,LINHA42,LINHA43,LINHA44,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>133665</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA15,LINHA19,LINHA20,LINHA24,LINHA31,LINHA33,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>130980</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA12,LINHA18,LINHA20,LINHA26,LINHA27,LINHA28,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>251836</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA14,LINHA21,LINHA23,LINHA24,LINHA25,LINHA30,LINHA37</linhas>
+    <valor>84708</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA7,LINHA8</linhas>
+    <valor>19374</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA18,LINHA22,LINHA26,LINHA32</linhas>
+    <valor>33000</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA10,LINHA17,LINHA18,LINHA19,LINHA23,LINHA27,LINHA32,LINHA37,LINHA40,LINHA45,LINHA46,LINHA50</linhas>
+    <valor>74200</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA3,LINHA10,LINHA12,LINHA19,LINHA24,LINHA25,LINHA26,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>159960</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA12</linhas>
+    <valor>27123</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA13,LINHA14,LINHA15,LINHA18,LINHA22,LINHA25,LINHA27,LINHA34,LINHA35,LINHA38,LINHA39,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>152316</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA9,LINHA12,LINHA13,LINHA14,LINHA18,LINHA20,LINHA21,LINHA25,LINHA29,LINHA30,LINHA32,LINHA33,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>228510</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA5,LINHA7,LINHA14,LINHA21,LINHA22,LINHA29,LINHA30,LINHA32,LINHA34,LINHA35,LINHA37,LINHA38,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>166681</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA8,LINHA15,LINHA16,LINHA18,LINHA19,LINHA24,LINHA28,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>141726</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA10,LINHA16,LINHA22,LINHA25,LINHA30,LINHA33,LINHA35,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>164826</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA20,LINHA24,LINHA29,LINHA30,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>196182</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA7,LINHA12,LINHA19,LINHA24,LINHA30,LINHA32,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>162760</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA13,LINHA18,LINHA21,LINHA23,LINHA26,LINHA28,LINHA31,LINHA37,LINHA41,LINHA43,LINHA44,LINHA48,LINHA50</linhas>
+    <valor>83300</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA17,LINHA20,LINHA22,LINHA27,LINHA28,LINHA31,LINHA32,LINHA33,LINHA36,LINHA37,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>191751</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA7,LINHA10,LINHA11,LINHA12,LINHA18,LINHA24,LINHA28,LINHA29,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>218998</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA19</linhas>
+    <valor>27330</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA5,LINHA10,LINHA16,LINHA23,LINHA29,LINHA30,LINHA34,LINHA36,LINHA39,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>159049</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA10,LINHA11,LINHA12,LINHA17,LINHA20,LINHA21</linhas>
+    <valor>60424</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA8,LINHA9,LINHA10,LINHA16,LINHA23,LINHA28,LINHA33,LINHA35,LINHA39,LINHA44,LINHA47</linhas>
+    <valor>72360</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA7,LINHA10,LINHA12,LINHA18,LINHA25,LINHA32,LINHA34,LINHA38,LINHA39,LINHA40,LINHA42,LINHA43,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>121212</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA13,LINHA19,LINHA23,LINHA24,LINHA29</linhas>
+    <valor>69244</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA8,LINHA12,LINHA13,LINHA14,LINHA17,LINHA24,LINHA26,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>131225</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA12,LINHA16,LINHA19,LINHA24,LINHA29,LINHA34,LINHA35,LINHA36,LINHA40,LINHA41,LINHA43,LINHA44,LINHA45,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>153349</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA6,LINHA8,LINHA11,LINHA15,LINHA22,LINHA25,LINHA28,LINHA34,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>182210</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA12,LINHA16</linhas>
+    <valor>16236</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA8</linhas>
+    <valor>16680</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA9,LINHA15,LINHA16,LINHA18,LINHA20,LINHA26,LINHA32</linhas>
+    <valor>74920</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA5,LINHA6,LINHA10,LINHA13,LINHA15,LINHA18,LINHA24,LINHA26,LINHA31,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>269276</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA6,LINHA11,LINHA18,LINHA24,LINHA27,LINHA32,LINHA38,LINHA40,LINHA43,LINHA46,LINHA47,LINHA49,LINHA50</linhas>
+    <valor>122878</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA11,LINHA16,LINHA22,LINHA23,LINHA30,LINHA32,LINHA34,LINHA36,LINHA37,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>179634</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA13,LINHA14,LINHA20,LINHA22,LINHA27,LINHA30,LINHA36,LINHA41,LINHA42,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>108783</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA6,LINHA13,LINHA15,LINHA18,LINHA24,LINHA26,LINHA32,LINHA34,LINHA37,LINHA38,LINHA39,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>219604</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA13,LINHA18,LINHA19,LINHA20,LINHA23,LINHA26,LINHA30,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>130375</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA9,LINHA11,LINHA18,LINHA23,LINHA28,LINHA29,LINHA35,LINHA36,LINHA39,LINHA40,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>167238</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA16,LINHA20,LINHA27,LINHA31,LINHA38,LINHA41,LINHA42,LINHA43,LINHA44,LINHA46,LINHA48,LINHA49</linhas>
+    <valor>99540</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA8,LINHA9,LINHA15,LINHA16,LINHA22,LINHA24,LINHA25,LINHA27,LINHA30,LINHA34,LINHA40,LINHA46</linhas>
+    <valor>84734</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA14,LINHA16,LINHA17,LINHA21,LINHA26,LINHA27,LINHA32,LINHA34,LINHA38,LINHA39,LINHA44,LINHA45,LINHA46,LINHA48</linhas>
+    <valor>115744</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA10,LINHA12,LINHA15,LINHA18,LINHA21,LINHA22,LINHA23,LINHA25,LINHA30,LINHA35,LINHA37,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>180711</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA15,LINHA18,LINHA25,LINHA26,LINHA27,LINHA33,LINHA35,LINHA36,LINHA37,LINHA43,LINHA47,LINHA48,LINHA50</linhas>
+    <valor>76740</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA15,LINHA20,LINHA21,LINHA24,LINHA28,LINHA30,LINHA33,LINHA34,LINHA36,LINHA38,LINHA39,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>138529</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA9,LINHA14,LINHA16,LINHA18,LINHA25,LINHA28,LINHA30,LINHA33,LINHA35,LINHA36,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>213192</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA9,LINHA11,LINHA15,LINHA19,LINHA25,LINHA26,LINHA28</linhas>
+    <valor>56000</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA4,LINHA11,LINHA18,LINHA25</linhas>
+    <valor>31075</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA11,LINHA17,LINHA18,LINHA20,LINHA23</linhas>
+    <valor>42000</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA10,LINHA15,LINHA16,LINHA22,LINHA28,LINHA31,LINHA32,LINHA33,LINHA34,LINHA37,LINHA38,LINHA39,LINHA41,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>130218</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA9,LINHA15,LINHA16,LINHA20,LINHA25,LINHA26,LINHA28,LINHA29,LINHA30,LINHA31,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>186412</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA14,LINHA19,LINHA22,LINHA25,LINHA30,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49</linhas>
+    <valor>109516</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA8,LINHA11,LINHA18,LINHA24,LINHA26,LINHA27,LINHA28,LINHA29,LINHA30,LINHA34,LINHA37,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>189200</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA10,LINHA14,LINHA17,LINHA21,LINHA27,LINHA34,LINHA35,LINHA36,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>166584</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA11,LINHA15,LINHA19,LINHA21,LINHA24,LINHA28,LINHA31,LINHA34,LINHA37,LINHA40,LINHA47,LINHA49</linhas>
+    <valor>70122</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA7,LINHA8,LINHA14,LINHA20,LINHA21,LINHA24,LINHA25,LINHA26,LINHA27,LINHA28,LINHA30,LINHA31,LINHA32,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>237210</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA9,LINHA16,LINHA17,LINHA24,LINHA25</linhas>
+    <valor>54006</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA12,LINHA17,LINHA19,LINHA24,LINHA27,LINHA33,LINHA38,LINHA40</linhas>
+    <valor>85320</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA3,LINHA6,LINHA7,LINHA13,LINHA14,LINHA17,LINHA23,LINHA26,LINHA31,LINHA37,LINHA39,LINHA42,LINHA43,LINHA44,LINHA46,LINHA47,LINHA48,LINHA50</linhas>
+    <valor>173898</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA1,LINHA4,LINHA8,LINHA14,LINHA17,LINHA24,LINHA30,LINHA34,LINHA40</linhas>
+    <valor>59067</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA4,LINHA11,LINHA16,LINHA22,LINHA23,LINHA26,LINHA30,LINHA31,LINHA34,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>177216</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA11,LINHA12,LINHA13,LINHA17</linhas>
+    <valor>53526</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA2,LINHA9,LINHA13,LINHA20,LINHA23,LINHA25,LINHA32,LINHA36,LINHA41,LINHA42,LINHA44,LINHA46,LINHA49,LINHA50</linhas>
+    <valor>125748</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA6,LINHA7,LINHA9,LINHA13,LINHA18,LINHA20,LINHA24,LINHA29,LINHA30,LINHA32,LINHA33,LINHA34,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>144207</valor>
+  </org.specs.proposals__solver.Proposal>
+  <org.specs.proposals__solver.Proposal>
+    <linhas class="enum-set" enum-type="org.specs.proposals_solver.PropostasSnippet$Line">LINHA5,LINHA8,LINHA15,LINHA21,LINHA23,LINHA26,LINHA27,LINHA29,LINHA30,LINHA31,LINHA32,LINHA33,LINHA35,LINHA36,LINHA37,LINHA38,LINHA39,LINHA40,LINHA41,LINHA42,LINHA43,LINHA44,LINHA45,LINHA46,LINHA47,LINHA48,LINHA49,LINHA50</linhas>
+    <valor>218764</valor>
+  </org.specs.proposals__solver.Proposal>
+</list>
