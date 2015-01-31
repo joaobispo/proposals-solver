@@ -11,14 +11,14 @@
  * specific language governing permissions and limitations under the License. under the License.
  */
 
-package pt.up.fe.specs.proposals_solver;
+package pt.up.fe.specs.proposals;
 
 import java.util.ArrayList;
 import java.util.EnumSet;
 import java.util.List;
 import java.util.Set;
 
-import pt.up.fe.specs.proposals_solver.PropostasSnippet.Line;
+import pt.up.fe.specs.proposals.PropostasSnippet.Line;
 
 public class Solution {
 

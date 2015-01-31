@@ -11,7 +11,7 @@
  * specific language governing permissions and limitations under the License. under the License.
  */
 
-package pt.up.fe.specs.proposals_solver;
+package pt.up.fe.specs.proposals;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -23,7 +23,7 @@ import java.util.Random;
 import java.util.stream.IntStream;
 
 import pt.up.fe.specs.library.ParseUtils;
-import pt.up.fe.specs.proposals_solver.Solution.SolutionState;
+import pt.up.fe.specs.proposals.Solution.SolutionState;
 import pt.up.fe.specs.xstreamplus.XStreamUtils;
 
 public class PropostasSnippet {
